@@ -1,8 +1,0 @@
-matplotlib==3.2
-numpy==3.2
-scipy==3.2
-bisect
-json
-math
-h5py
-os
