@@ -1,7 +1,0 @@
-json==3.2.0
-math==3.2.0
-matplotlib==3.2.0
-numpy==3.2.0
-os==3.2.0
-scipy==3.2.0
-bisect==3.2.0
