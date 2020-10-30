@@ -1,8 +1,0 @@
-matplotlib
-numpy
-os
-scipy
-bisect
-json
-math
-h5py
