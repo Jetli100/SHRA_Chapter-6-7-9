@@ -1,0 +1,7 @@
+matplotlib==3.2
+numpy
+math
+scipy==3.2
+h5py
+json
+
