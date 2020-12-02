@@ -1,3 +1,5 @@
+# Note: The codes were originally created by Prof. Jack Baker in the MATLAB
+
 import numpy as np
 import h5py
 from scipy.stats import norm
